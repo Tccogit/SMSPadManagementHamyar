@@ -1,0 +1,2 @@
+IMEI: 4050765991979987505 SerialDevice:12345678 PanelData: op=send&uname=mahfakhr&pass=M@h123456Fakhr&message=به باشگاه مشتریان شرکت طراحان کنترل شرق خوش آمدید www.tcco.ir & to=["11"]&from=+9810009589 responseFromServer: [0,"109590811"] SendTime: 9/6/2020 12:31:10 PM
+IMEI: 4050765991979987505 SerialDevice:12345678 PanelData: op=send&uname=mahfakhr&pass=M@h123456Fakhr&message=به باشگاه مشتریان شرکت طراحان کنترل شرق خوش آمدید www.tcco.ir & to=["11"]&from=+9810009589 responseFromServer: [0,"109591851"] SendTime: 9/6/2020 12:34:44 PM

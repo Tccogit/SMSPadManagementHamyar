@@ -1,0 +1,1 @@
+IMEI: 864626047655656 PanelData: op=send&uname=mahfakhr&pass=M@h123456Fakhr&message=hello Test&to=["09022364004"]&from=+98500010702444666 responseFromServer: [0,"107867250"] SendTime: 8/31/2020 11:04:39 AM

@@ -1,0 +1,9 @@
+c:\users\bushamedan\documents\visual studio 2015\Projects\SMSPadManagement\SMSPadManagement\bin\Debug\SMSPadManagement.exe.config
+c:\users\bushamedan\documents\visual studio 2015\Projects\SMSPadManagement\SMSPadManagement\obj\Debug\SMSPadManagement.ControllingForm.resources
+c:\users\bushamedan\documents\visual studio 2015\Projects\SMSPadManagement\SMSPadManagement\obj\Debug\SMSPadManagement.csproj.GenerateResource.Cache
+c:\users\bushamedan\documents\visual studio 2015\Projects\SMSPadManagement\SMSPadManagement\bin\Debug\SMSPadManagement.exe
+c:\users\bushamedan\documents\visual studio 2015\Projects\SMSPadManagement\SMSPadManagement\bin\Debug\SMSPadManagement.pdb
+c:\users\bushamedan\documents\visual studio 2015\Projects\SMSPadManagement\SMSPadManagement\obj\Debug\SMSPadManagement.exe
+c:\users\bushamedan\documents\visual studio 2015\Projects\SMSPadManagement\SMSPadManagement\obj\Debug\SMSPadManagement.pdb
+C:\Users\bushamedan\documents\visual studio 2015\Projects\SMSPadManagement\SMSPadManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bushamedan\documents\visual studio 2015\Projects\SMSPadManagement\SMSPadManagement\obj\Debug\SMSPadManagement.csprojResolveAssemblyReference.cache
